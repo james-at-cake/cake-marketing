@@ -62,20 +62,19 @@ service:
   enable: true
   title: Services
   item:
-  - title: Website Design
+  - title: Website Templates
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Start with a website template and quickly deploy your new winery website. '
     highlighted: false
-  - title: UX Design
+  - title: Custom Website Design for Wineries
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: We can custom-tailor a website for your winery or brand and create a
+      unique design that captivates users while achieving key marketing objectives.
     highlighted: true
-  - title: Interaction Design
+  - title: Store & Ecommerce Integrations
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: We have experience setting up, integrating and implementing ecommerce
+      solutions for wineries.
     highlighted: false
 portfolio:
   enable: true
