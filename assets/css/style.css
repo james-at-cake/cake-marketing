@@ -917,7 +917,7 @@ blockquote {
 }
 
 .cake-banner{
-  background: url('/images/cake-is-cake-1300.jpg') !important;
+  background-image: url('/images/cake-is-cake-1300.jpg') !important;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom; 
