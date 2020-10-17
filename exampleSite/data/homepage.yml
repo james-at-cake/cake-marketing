@@ -1,6 +1,7 @@
 ---
 banner:
   title: A Stunning<br> Winery Website<br> is Worth Celebrating
+  banner_image: "/images/119041438-colorful-birthday-cake-with-sprinkles-and-ten-candles-on-a-blue-background-with-copyspace.jpg"
 about:
   enable: true
   content: Cakewalk is a leader in creating digital experiences for wineries. We specialize
@@ -47,16 +48,16 @@ education:
   title: Education
   item:
   - title: Marters in UX Design
-    year: "2006"
+    year: '2006'
     academy: Masassusets Institute of Technology
   - title: Honours in Fine Arts
-    year: "2004"
+    year: '2004'
     academy: Harvard University
   - title: Higher Secondary Certificat
-    year: "2000"
+    year: '2000'
     academy: Cardiff School
   - title: Secondary School Certificate
-    year: "1998"
+    year: '1998'
     academy: Cardiff School
 service:
   enable: true
@@ -70,7 +71,7 @@ service:
   - title: Website Templates
     icon: ti-palette
     content: 'Start with a website template and quickly deploy your new winery website. '
-    highlighted: false
+    highlighted: ''
   - title: Custom Website Design for Wineries
     icon: ti-vector
     content: We can custom-tailor a website for your winery or brand and create a
@@ -80,11 +81,11 @@ service:
     icon: ti-panel
     content: We have experience setting up, integrating and implementing ecommerce
       solutions for wineries.
-    highlighted: false
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: 5
 testimonial:
   enable: false
   title: Testimonials
