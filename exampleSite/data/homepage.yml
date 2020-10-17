@@ -3,14 +3,12 @@ banner:
   title: Stunning <br> Winery Websites <br> that Sell Wine
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: Cakewalk specializes in creating the best digital experiences for wineries.
+    We specialize in design, development, and ecommerce integrations. Creating the
+    best winery websites are our specialty.
   button:
     enable: true
-    label: know more
+    label: browse the portfolio
     URL: about
 skill:
   enable: true
