@@ -256,7 +256,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: var(--primary-color) !important
+  background: var(--primary-color)
 }
 
 .bg-gray {
@@ -919,5 +919,6 @@ blockquote {
 .cake-banner{
   background: url('/images/119041438-colorful-birthday-cake-with-sprinkles-and-ten-candles-on-a-blue-background-with-copyspace.jpg') !important;
   background-size: cover;
-  background-repeat: none; 
+  background-repeat: no-repeat;
+  background-position: bottom; 
 }
