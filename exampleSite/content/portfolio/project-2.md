@@ -1,21 +1,17 @@
 ---
-title: "Artwork Design"
+title: "Website Design & Development"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+image: "images/portfolio/Septenary.jpg"
+client: "Septenary Winery"
+project_url : "https://www.septenarywinery.com"
+categories: ["design, development, template"]
+description: "A development created for Seven Oaks Vineyards starting with a template."
 draft: false
 ---
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+We created a design & development for Seven Oaks Vineyards using a WineDirect template as a base. The farm is a magnificent property located 15 minutes from Charlottesville in Greenwood, VA.
 
 
 #### Project Details
