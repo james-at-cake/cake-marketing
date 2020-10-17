@@ -1,7 +1,7 @@
 ---
 title: "Michael Mondavi Website"
 date: 2017-09-12T12:14:34+06:00
-image: "images/portfolio/Michael-Mondavi-1.png"
+image: "images/portfolio/Mondavi.png"
 client: "Michael Mondavi Family"
 project_url : "https://www.michaelmondavifamilyestate.com"
 categories: ["design","development"]
