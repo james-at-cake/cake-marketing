@@ -3,15 +3,15 @@ banner:
   title: Stunning <br> Winery Websites <br> that Sell Wine
 about:
   enable: true
-  content: Cakewalk specializes in creating the best digital experiences for wineries.
-    We specialize in design, development, and ecommerce integrations. Creating the
-    best winery websites are our specialty.
+  content: Cakewalk has found a niche in creating the best digital experiences for
+    wineries. We specialize in design, development, and ecommerce integrations and
+    crafting the best winery websites are our specialty.
   button:
     enable: true
     label: browse the portfolio
-    URL: about
+    URL: portfolio
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
