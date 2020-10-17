@@ -1,6 +1,6 @@
 ---
 title: "Truchard Website Design"
-date: 2019-05-12T12:14:34+06:00
+date: 2017-03-12T12:14:34+06:00
 image: "images/portfolio/truchard.jpg"
 client: "Truchard Vineyards"
 project_url : "https://truchardvineyards.com/"

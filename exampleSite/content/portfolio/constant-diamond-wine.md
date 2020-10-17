@@ -1,6 +1,6 @@
 ---
 title: "Constant Diamond Wine Custom Website"
-date: 2019-05-12T12:14:34+06:00
+date: 2017-07-12T12:14:34+06:00
 image: "images/portfolio/constant.jpg"
 client: "Constant Diamond Wine"
 project_url : "https://www.constantwine.com/"

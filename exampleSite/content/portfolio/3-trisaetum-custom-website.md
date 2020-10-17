@@ -1,6 +1,6 @@
 ---
 title: "Trisaetum Website"
-date: 2017-09-12T12:14:34+06:00
+date: 2018-03-12T12:14:34+06:00
 image: "images/portfolio/trisaetum.jpg"
 client: "Trisaaetum Wine"
 project_url : "https://www.trisaetum.com/"
