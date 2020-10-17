@@ -4,7 +4,7 @@ date: 2018-06-12T12:14:34+06:00
 image: "images/portfolio/kunde.jpg"
 client: "Kunde Family Wine"
 project_url : "https://www.kunde.com/"
-categories: ["custom design","development"]
+categories: ["template design"]
 description: "A custom design and development created for the Trisaetum."
 draft: false
 ---
