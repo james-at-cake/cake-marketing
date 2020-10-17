@@ -8,7 +8,7 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "blog"
+URL = "services"
 name = "Blog"
 weight = 2
 [[menu.main]]
@@ -20,16 +20,16 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "#300-34334 Forrest Terrace  |  Abbotsford, B.C., Canada  |  V2S 1G7"
+author = "James Davenport"
+copyright = "Copyright &copy; 2020 Cakewalk Design"
+description = "Cakewalk Design, Custom Websites for Wineries"
+email = "hello@cakewalkdesign.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "1-877-667-6484"
+theme_color = "#29acd8"
 [params.contact]
 enable = true
 form_action = "#"
@@ -37,7 +37,7 @@ form_action = "#"
 enable = true
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -59,17 +59,11 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/cakewalkdesign"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/cakewalkdesign"
 icon = "ti-twitter-alt"
