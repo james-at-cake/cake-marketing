@@ -921,7 +921,13 @@ blockquote {
   background-image: url('/images/cake-is-cake-1300.jpg') !important;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom; 
+  background-position: left bottom; 
+}
+
+@media (min-width: 1400px){
+  .cake-banner{
+    background-position: left bottom; 
+  }
 }
 
 .cake-banner .overlay{
