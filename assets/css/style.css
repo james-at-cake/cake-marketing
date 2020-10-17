@@ -942,3 +942,5 @@ blockquote {
     background: #38acd8;
     opacity: .2;
 }
+
+.navbar-brand{ width: 50%; }
