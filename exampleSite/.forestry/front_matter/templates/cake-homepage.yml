@@ -9,12 +9,6 @@ fields:
   - type: text
     name: title
     label: title
-  - name: banner_image
-    type: file
-    config:
-      maxSize: 1
-    label: banner image
-    description: Add a banner background image
 - type: field_group
   name: about
   label: about
