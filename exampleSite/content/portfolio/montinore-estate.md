@@ -1,7 +1,7 @@
 ---
 title: "Montinore Estate Website"
 date: 2018-06-12T12:14:34+06:00
-image: "images/portfolio/montinore.jpg"
+image: "images/portfolio/montinore-2.jpg"
 client: "Montinore Estate"
 project_url : "https://www.montinore.com/"
 categories: ["template design"]
