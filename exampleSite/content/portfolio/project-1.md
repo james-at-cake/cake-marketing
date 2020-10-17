@@ -4,7 +4,7 @@ date: 2017-09-12T12:14:34+06:00
 image: "images/portfolio/Mondavi.png"
 client: "Michael Mondavi Family"
 project_url : "https://www.michaelmondavifamilyestate.com"
-categories: ["design","development"]
+categories: ["custom design","development"]
 description: "A custom design and development created for the Michael Mondavi Family."
 draft: false
 ---
