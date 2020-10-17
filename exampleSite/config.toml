@@ -27,7 +27,7 @@ description = "Cakewalk Design, Custom Websites for Wineries"
 email = "hello@cakewalkdesign.com"
 google_analytics_id = ""
 home = "Home"
-logo = ""
+logo = "/images/cakewalk-logo.png"
 phone = "1-877-667-6484"
 theme_color = "#29acd8"
 [params.contact]
