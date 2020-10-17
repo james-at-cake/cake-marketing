@@ -62,6 +62,11 @@ service:
   enable: true
   title: Services
   item:
+  - title: Partner with Your Designer
+    icon: ''
+    content: You already have a design partner and need our help and expertise in
+      implementing wine ecommerce software and leading the development.
+    highlighted: ''
   - title: Website Templates
     icon: ti-palette
     content: 'Start with a website template and quickly deploy your new winery website. '
