@@ -1,22 +1,16 @@
 ---
-title: "Artwork Design"
+title: "Cadaretta Wine Website Design"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+image: "images/portfolio/cadaretta.jpg"
+client: "Cadaretta Wine"
+categories: ["development"]
+description: "A development created for Cadaretta Wine."
 draft: false
 ---
 
 #### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
+We partnered with dG Creative on the design and completed the development and ecommerce integration.
 
 #### Project Details
 

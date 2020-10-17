@@ -1,17 +1,17 @@
 ---
-title: "Pali Wine Co Website Design"
+title: "Elevation Ten Website Design"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/Pali-Wine.jpg"
-client: "Pali Wine Co"
-project_url : "https://www.paliwineco.com/"
-categories: ["design","template"]
-description: "A development created for Pali Wine Co starting with a template."
+image: "images/portfolio/Elevationten.jpg"
+client: "Elevation Ten Wine"
+project_url : "https://www.elevationten.com"
+categories: ["development"]
+description: "A development created for Elevation Ten."
 draft: false
 ---
 
 #### Project Requirements
 
-We created a design & development for Pali Wine Co using a WineDirect template as a base. They have a second brand and landing page for Tower15 that was encorprated into the website.
+We partnered with Caleidos Visual who created the design and we provided the development and ecommerce integration.
 
 #### Project Details
 

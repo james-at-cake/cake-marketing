@@ -1,7 +1,7 @@
 ---
 title: "Pali Wine Co Website Design"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/pali.jpg"
+image: "images/portfolio/pali-wine.jpg"
 client: "Pali Wine Co"
 project_url : "https://www.paliwineco.com/"
 categories: ["design","template"]
