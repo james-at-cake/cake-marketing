@@ -6,7 +6,7 @@ client: "Cork Guru"
 project_url : "http://www.corkguru.com/"
 categories: ["wordpress"]
 description: "A Wordpress development created for Cork Guru."
-draft: false
+draft: true
 ---
 
 #### Project Requirements
