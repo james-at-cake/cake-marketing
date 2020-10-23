@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "This is meta description."
-author_image : "/images/james-davenport.png"
+author_image : "/images/james-davenport.jpg"
 draft: false
 ---
 
