@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "james2cakewalkdesign.com"
 image = "/images/james-davenport.png"
 social = []
