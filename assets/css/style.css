@@ -1,20 +1,12 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
-PROJECT: Project Name
-VERSION: Versoin Number
+PROJECT: Cakewalk Design Marketing Site
+VERSION: 2.0
 -------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
-
-@font-face {
-  font-family: bwnistaint-xbd;
-  src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
-  font-style: normal;
-  font-display: swap
-}
 
 body {
   line-height: 1.2;
-  font-family: roboto, sans-serif;
+  font-family: TT Norms W01, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -25,7 +17,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: TT Norms W01, sans-serif
 }
 
 h1,
@@ -332,15 +324,15 @@ a:hover {
 }
 
 .font-primary {
-  font-family: roboto, serif !important
+  font-family: TT Norms W01, serif !important
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: FF Meta Serif W01, serif !important
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: TT Norms Pro !important
 }
 
 .shadow {
@@ -445,7 +437,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: bwnistaint-xbd;
+  font-family: TT Norms Pro, sans-serif;
   text-transform: uppercase;
   padding: 15px
 }
@@ -747,7 +739,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: playfair display, serif;
+  font-family: 'FF Meta Serif W01', serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
