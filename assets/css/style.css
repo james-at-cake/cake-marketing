@@ -6,7 +6,7 @@ VERSION: 2.0
 
 body {
   line-height: 1.2;
-  font-family: TT Norms W01, sans-serif;
+  font-family: 'TT Norms W01', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -17,7 +17,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: TT Norms W01, sans-serif
+  font-family: 'TT Norms W01', sans-serif
 }
 
 h1,
@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: 'FF Meta Serif W01', serif;
   line-height: 1.2
 }
 
@@ -79,7 +79,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: 'FF Meta Serif W01', serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -215,7 +215,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd
+  font-family: 'FF Meta Serif W01', serif
 }
 
 .bg-cover {
@@ -324,15 +324,15 @@ a:hover {
 }
 
 .font-primary {
-  font-family: TT Norms W01, serif !important
+  font-family: 'TT Norms W01', serif !important
 }
 
 .font-secondary {
-  font-family: FF Meta Serif W01, serif !important
+  font-family: 'FF Meta Serif W01', serif !important
 }
 
 .font-tertiary {
-  font-family: TT Norms Pro !important
+  font-family: 'TT Norms Pro W01', sans-serif !important
 }
 
 .shadow {
@@ -437,7 +437,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: TT Norms Pro, sans-serif;
+  font-family: 'TT Norms Pro W01', sans-serif;
   text-transform: uppercase;
   padding: 15px
 }
