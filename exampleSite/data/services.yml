@@ -17,3 +17,20 @@ work_process:
     content: We are specialists with wine ecommerce software and are willing to work alongside a designer or agency. Maybe you have a great design relationship or your agency doesn't have development experience with the software.
     icon: images/icons/print.png
     content: We have experience setting up, integrating and implementing ecommerce solutions for wineries. Some solutions integrate directly with your marketing website while others are setup as a separate website. Regardless of the technology approach, we’ll help you create a seamless experience.
+
+    team:
+  enable: false
+  title: My Team
+  team_member:
+  - title: Jack Schenziwe
+    image: images/team/member-1.png
+    designation: Project Manager
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
+clients_logo_slider:
+  enable: false
+  title: My Clients
