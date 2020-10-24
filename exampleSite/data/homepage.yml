@@ -4,9 +4,7 @@ banner:
   banner_image: "/images/119041438-colorful-birthday-cake-with-sprinkles-and-ten-candles-on-a-blue-background-with-copyspace.jpg"
 about:
   enable: true
-  content: Cakewalk is a leader in creating digital experiences for wineries. We specialize
-    in design, development, and ecommerce integrations and crafting the best winery
-    websites are our specialty.
+  content: Cakewalk Design is a niche design and development studio that is hyper-focussed on crafting winery websites. 
   button:
     enable: true
     label: browse the portfolio
@@ -61,26 +59,18 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
   item:
-  - title: Partner with Your Designer
-    icon: ''
-    content: You already have a design partner and need our help and expertise in
-      implementing wine ecommerce software and leading the development.
-    highlighted: ''
-  - title: Website Templates
-    icon: ti-palette
-    content: 'Start with a website template and quickly deploy your new winery website. '
-    highlighted: ''
-  - title: Custom Website Design for Wineries
+  - title: About Cakewalk
     icon: ti-vector
-    content: We can custom-tailor a website for your winery or brand and create a
-      unique design that captivates users while achieving key marketing objectives.
+    content: Find out about who we are and our expertise.
+    highlighted: ''
+  - title: Our Portfolio
+    icon: ti-palette
+    content: Browse through the projects we've worked on.
     highlighted: true
-  - title: Store & Ecommerce Integrations
-    icon: ti-panel
-    content: We have experience setting up, integrating and implementing ecommerce
-      solutions for wineries.
+  - title: Our Services
+    icon: ti-vector
+    content: Cakewalk offers a full range of design and development services for wineries. Template modifications, ecommerce integrations, and custom design and development.
     highlighted: ''
 portfolio:
   enable: true
