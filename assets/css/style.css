@@ -963,4 +963,30 @@ blockquote {
     opacity: .2;
 }
 
+.cup-cake-banner-2{
+  background-image: url('/images/cup-cake-1300.jpg') !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom; 
+}
+
+@media (min-width: 1400px){
+  .cup-cake-banner-2{
+    background-position: left bottom; 
+  }
+}
+
+.cup-cake-banner-2 .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cup-cake-banner-2 .overlay::before{
+    background: #38acd8;
+    opacity: .2;
+}
+
 .navbar-brand img{ width: 50%; }
