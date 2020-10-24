@@ -471,6 +471,12 @@ textarea.form-control {
   font-size: 80px;
 }
 
+@media(max-width:767px){
+  .hero-area h1{
+    font-size: 65px;
+  }
+}
+
 .layer {
   position: absolute;
   z-index: 1
@@ -990,4 +996,19 @@ blockquote {
     opacity: .2;
 }
 
+@media (max-width: 604px){
+  .navbar-brand{
+    text-align: center;
+  }
+}
+
 .navbar-brand img{ width: 50%; }
+
+@media (max-width: 604px){
+  .navbar-toggler{
+    position: absolute;
+    top: 30px;
+    right: 0;
+  }
+}
+
