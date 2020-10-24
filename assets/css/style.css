@@ -36,33 +36,33 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 80px
+  font-size: 65px
 }
 
 @media(max-width:991px) {
 
   h1,
   .h1 {
-    font-size: 65px
+    font-size: 50px
   }
 }
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 50px
 }
 
 @media(max-width:991px) {
 
   h2,
   .h2 {
-    font-size: 50px
+    font-size: 40px
   }
 }
 
 h3,
 .h3 {
-  font-size: 40px
+  font-size: 32px
 }
 
 h4,
