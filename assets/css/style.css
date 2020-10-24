@@ -791,6 +791,12 @@ blockquote {
   padding: 250px 0 170px
 }
 
+@media(max-width:767px){
+  .page-title-alt{
+    padding: 200px 0 60px;
+  }
+}
+
 .page-title-alt h1{
     z-index: 2;
     text-shadow: 2px 2px 4px #596a6f;
@@ -855,6 +861,12 @@ blockquote {
 
 .page-title {
   padding: 250px 0 150px
+}
+
+@media(max-width:767px){
+  .page-title{
+    padding: 200px 0 60px;
+  }
 }
 
 .page-title h1{
@@ -1051,9 +1063,5 @@ blockquote {
     top: 30px;
     right: 0;
   }
-}
-
-.col-portfolio-single{
-  margin-top: -20%;
 }
 
