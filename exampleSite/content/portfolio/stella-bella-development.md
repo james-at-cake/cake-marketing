@@ -11,4 +11,4 @@ draft: false
 
 #### Project Requirements
 
-We partnered with Stella Bella on this amazing website development. Tischh Marketing provided the design and we completed the development and ecommerce integration.
+A development project for a boutique winery in the southern Margaret River. We partnered with Tischh Marketing on this design, development and ecommerce integration.

@@ -11,5 +11,5 @@ draft: false
 
 #### Project Details
 
-We were tasked with updating the online presence for the Micheal Mondavi Family website. The brand needed a fresh new design, a responsive development, all while integrating with the existing ecommerce platform.
+A custom design and development created for the Michael Mondavi Family. The family has tended vineyards in California’s Napa Valley for four generations.
 

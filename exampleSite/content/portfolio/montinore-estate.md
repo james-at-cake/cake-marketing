@@ -11,4 +11,4 @@ draft: false
 
 #### Project Details
 
-We created a design & development for Montinore Estate using a WineDirect template as a base. 
+We created a design & development for Montinore Estate using a WineDirect template as a base. We learned something about biodynamic wines and certified organic wines working on this project.

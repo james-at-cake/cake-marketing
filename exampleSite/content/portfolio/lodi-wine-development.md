@@ -11,4 +11,4 @@ draft: false
 
 #### Project Requirements
 
-Lodi Wine was looking to update the website to match the latest marketing campaign. We were tasked with completing the development and ecommerce integration and the design direction was provided by the wine commisions agency Rindal & Co.
+Lodi Wine needed to update the website to match the most recent brand and marketing campaign. We were tasked with completing the development and ecommerce integration and the design direction was provided by the agency Rindal & Co.

@@ -11,4 +11,4 @@ draft: true
 
 #### Project Requirements
 
-We created a design & development for Pali Wine Co using a WineDirect template as a base. They have a second brand and landing page for Tower15 that was encorprated into the website.
+We created a design & development for Pali Wine Co using a WineDirect template as a base. Pali is known for its Pinot Noir. Visit one of the tasting rooms in Santa Barbera, Lompoc, LA, Anaheim, or San Diego.

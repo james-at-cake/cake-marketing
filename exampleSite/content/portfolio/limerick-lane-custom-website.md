@@ -10,4 +10,4 @@ draft: false
 
 #### Project Requirements
 
-A custom design and development created for Limerick Lanes. 
+A custom design and development created for Limerick Lane. Limerick Lane is a world-class winegrowing estate located in the Russian River appellation of Sonoma County.

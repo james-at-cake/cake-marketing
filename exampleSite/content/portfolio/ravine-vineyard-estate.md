@@ -11,4 +11,4 @@ draft: false
 
 #### Project Details
 
-We created a design & development for Ravine Vineyard Estate using a WineDirect template as a base. 
+We created a design & development for Ravine Vineyard Estate starting with WineDirect template. There's quite the story to this estate and we look forward to visiting the restaurant here soon! 

@@ -10,4 +10,4 @@ draft: false
 
 #### Project Requirements
 
-We partnered with dG Creative on the design and completed the development and ecommerce integration.
+We partnered with dG Creative on the design and completed the development and ecommerce integration. Cadaretta was a Walla Walla winery that combines a family's long Washington agricultural heritage with winemaking skill and experience.

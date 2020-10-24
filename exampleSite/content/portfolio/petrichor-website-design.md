@@ -11,4 +11,4 @@ draft: false
 
 #### Project Requirements
 
-We created a design & development for Petrichor using a WineDirect template as a base. The organically-farmed Petrichor Vineyard is perched high above Russian River Valley atop the westernmost ridge of the Mayacamas Mountains.
+We created a design & development for Petrichor using a WineDirect template as a base. Petrichor Vineyard is perched high above Russian River Valley atop the westernmost ridge of the Mayacamas Mountains.

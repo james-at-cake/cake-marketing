@@ -11,5 +11,5 @@ draft: false
 
 #### Project Requirements
 
-A custom design and development created for Constant Diamond Wine.
+We loved building this custom design and development for Constant Diamond Wine. Constant sits atop the summit of Diamond mountain in the Napa Valley.
 

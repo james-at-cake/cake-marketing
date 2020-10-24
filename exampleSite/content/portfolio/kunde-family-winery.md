@@ -11,5 +11,5 @@ draft: false
 
 #### Project Details
 
-We were tasked with updating the online presence for the Trisaetum website and family of brands. We created a custom design for the main winery, and tied three other branded websites with each other.
+We created a new winery website based on a selected winery template. We fell in love with this winery and enjoyed browsing through the library of recipes created to pair with the wines.
 
