@@ -1072,24 +1072,3 @@ blockquote {
     right: 0;
   }
 }
-
-/* ----- Form Structure ----- */
-
-.info {
-    display: inline-block;
-    clear: both;
-    margin: 0 0 5px 0;
-    padding: 0 1% 1.1em 1%;
-}
-
-.wufoo label.desc, .wufoo legend.desc, .likert caption {
-  font-size:85% !important;
-  font-style:normal;
-  font-weight:bold;
-}
-
-.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 85% !important;
-}
