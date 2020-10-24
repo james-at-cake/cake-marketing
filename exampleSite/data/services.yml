@@ -1,0 +1,19 @@
+---
+work_process:
+  enable: true
+  title: Services
+  item:
+  - title: Website Template Modifications
+    icon: images/icons/plan.png
+    content: Mabe you're looking for something quicker or have budget constraints? No problem, we'll start with a ready-made ecommerce template that’s already integrated into a leading ecommerce platform. We’ll make key modifications to match your brand so it looks unique and less 'out-of-the-box'.
+  - title: Custom Website Design
+    icon: images/icons/design.png
+    content: We can custom-tailor a website for your winery or brand and create a design that captivates users while achieving key marketing objectives. We'll develop using responsive techniques, and build with speed, performace, SEO and ADA compliance in mind.
+  - title: Store & Ecommerce Integrations
+    icon: images/icons/print.png
+    content: We have experience setting up, integrating and implementing ecommerce solutions for wineries. Some solutions integrate directly with your marketing website while others are setup as a separate website. Regardless of the technology approach, we’ll help you create a seamless experience.
+    - title: Design Agency Partners
+    icon: images/icons/print.png
+    content: We are specialists with wine ecommerce software and are willing to work alongside a designer or agency. Maybe you have a great design relationship or your agency doesn't have development experience with the software.
+    icon: images/icons/print.png
+    content: We have experience setting up, integrating and implementing ecommerce solutions for wineries. Some solutions integrate directly with your marketing website while others are setup as a separate website. Regardless of the technology approach, we’ll help you create a seamless experience.
