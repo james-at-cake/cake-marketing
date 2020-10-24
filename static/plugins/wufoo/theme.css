@@ -248,7 +248,9 @@ html{
 .wufoo li .wufoo-dropdown span{
 	font-style:normal;
 	font-weight:normal;
-	color:#333333 !important;
+	height: 34px;
+    line-height: 38px;
+    padding-left: 16px;
 	font-size:85% !important;
 }
 
