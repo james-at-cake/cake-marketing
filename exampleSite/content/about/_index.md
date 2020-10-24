@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 description: "Cakewalk Design Studio - Winery Website Design and Development"
 author_image : "/images/james-davenport.jpg"
 draft: false
