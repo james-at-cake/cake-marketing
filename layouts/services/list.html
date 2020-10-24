@@ -1,11 +1,12 @@
 {{ define "main" }}
 
 <!-- page title -->
-<section class="page-title-alt bg-primary position-relative cup-cake-banner-2 overflow-hidden">
+<section class="page-title-alt bg-primary position-relative cup-cake-banner overflow-hidden">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-tertiary">{{ .Title }}</h1>
       </div>
     </div>
   </div>
@@ -30,7 +31,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12" style="text-align: center;">
-        <h1 class="font-tertiary">{{ .Title }}</h1>
+        
         {{ .Content }}
       </div>
     </div>
