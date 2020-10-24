@@ -436,13 +436,13 @@ form li.complex div span.right select {
     clear: both !important
 }
 
-label span,
+/*label span,
 .section span,
 p span,
 .likert span {
     display: inline !important;
     float: none !important
-}
+}*/
 
 form li div label,
 form li span label {
@@ -555,14 +555,12 @@ input.search,
 input.file,
 textarea.textarea,
 select.select {
-    font-family: "Lucida Grande", Tahoma, Arial, sans-serif;
     font-size: 100%;
-    color: #333;
     margin: 0;
     padding: 2px 0
 }
 
-input.text,
+/*input.text,
 input.search,
 textarea.textarea {
     border-top: 1px solid #7c7c7c;
@@ -570,7 +568,7 @@ textarea.textarea {
     border-right: 1px solid #c3c3c3;
     border-bottom: 1px solid #ddd;
     background: #fff url(../images/fieldbg.gif) repeat-x top
-}
+}*/
 
 input.nospin::-webkit-inner-spin-button,
 input.nospin::-webkit-outer-spin-button {
