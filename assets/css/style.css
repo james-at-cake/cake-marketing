@@ -511,7 +511,6 @@ textarea.form-control {
 
 .layer {
   position: absolute;
-  z-index: 1
 }
 
 #l1 {
@@ -856,6 +855,11 @@ blockquote {
 
 .page-title {
   padding: 250px 0 150px
+}
+
+.page-title h1{
+    z-index: 2;
+    text-shadow: 2px 2px 4px #596a6f;
 }
 
 .page-title .container {
