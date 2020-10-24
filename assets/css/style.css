@@ -4,6 +4,38 @@ PROJECT: Cakewalk Design Marketing Site
 VERSION: 2.0
 -------------------------------------------------------------------*/
 
+    @font-face{
+        font-family:"FF Meta Serif W01";
+        src:url("fonts/9784f333-f938-4ee7-bf6a-d5f13ce933db.woff2") format("woff2"),url("fonts/b9e1b55a-e63d-4d59-8490-4da8fe28a760.woff") format("woff");
+font-weight: 750;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"TT Norms W01";
+        src:url("fonts/5755afca-1185-4cf9-bdff-c1a7a0b90a41.woff2") format("woff2"),url("fonts/35676be7-e596-4680-b97c-d0684419df85.woff") format("woff");
+font-weight: 300;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"TT Norms W01";
+        src:url("fonts/6fabbd3a-040e-4678-ab7b-ba2e7799bba4.woff2") format("woff2"),url("fonts/3d24c769-3391-49a4-b038-bbb0b982d39b.woff") format("woff");
+font-weight: 300;
+font-style: italic;
+    }
+    @font-face{
+        font-family:"TT Norms Pro W01";
+        src:url("fonts/9c5f5660-91ed-42ef-aace-11ddb6b88af7.woff2") format("woff2"),url("fonts/18563b17-7180-4a0f-bedc-944f52e012eb.woff") format("woff");
+font-weight: 450;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"TT Norms Pro W01";
+        src:url("fonts/9f9bf984-1cb5-417d-b642-9929a57c4353.woff2") format("woff2"),url("fonts/4cb35970-a798-4efe-9982-264467bef1bc.woff") format("woff");
+font-weight: 450;
+font-style: italic;
+    }
+
+
 body {
   line-height: 1.2;
   font-family: 'TT Norms W01', sans-serif;
