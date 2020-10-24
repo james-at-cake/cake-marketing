@@ -58,7 +58,7 @@ education:
     year: '1998'
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   item:
   - title: About Cakewalk
     icon: ti-vector
@@ -74,8 +74,8 @@ service:
     highlighted: ''
 portfolio:
   enable: true
-  title: Portfolio
-  item_show: 5
+  title: Featured Portfolio
+  item_show: 6
 testimonial:
   enable: false
   title: Testimonials
