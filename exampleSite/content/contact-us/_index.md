@@ -1,5 +1,5 @@
 ---
 title: "Contact Us"
-description: "This is meta description."
+description: "Contact Cakewalk Design with your questions"
 draft: false
 ---
