@@ -5,6 +5,10 @@ banner:
 about:
   enable: true
   content: Cakewalk Design is a niche design and development studio that is hyper-focussed on crafting winery websites. We create winery websites that sell more wine, and attract more club members, and bring more visitors. We'd love to work with you on your next project!
+  button:
+    enable: false
+    label: browse the portfolio
+    URL: portfolio
 skill:
   enable: false
   title: Skills
@@ -72,10 +76,6 @@ portfolio:
   enable: true
   title: Featured Work
   item_show: 6
-  button:
-    enable: true
-    label: browse the portfolio
-    URL: portfolio
 testimonial:
   enable: false
   title: Testimonials

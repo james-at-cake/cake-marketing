@@ -52,6 +52,11 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with site.Data.homepage.about }}
           <h2 class="font-secondary lead text-dark">{{.content | markdownify}}</h2>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          {{ end }}
+          {{ end }}
           {{ end }}
         </div>
       </div>
@@ -200,13 +205,6 @@
       </div>
     </div>
   </section>
-
-  {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
-          {{ end }}
-          {{ end }}
-          
   <!-- /portfolio -->
   {{ end }}
 
