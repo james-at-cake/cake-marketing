@@ -4,7 +4,7 @@ work_process:
   title: Design & Development Services
   item:
   - title: Website Template Modifications
-    icon: icons/dev-icon-1.png
+    icon: "/images/icons/dev-icon-1.png"
     content: Maybe you're looking for something quicker or have budget constraints?
       No problem, we'll start with a ready-made ecommerce template that’s already
       integrated into a leading ecommerce platform. We’ll make key modifications to
