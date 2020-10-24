@@ -74,7 +74,7 @@ service:
     highlighted: ''
 portfolio:
   enable: true
-  title: Featured Portfolio
+  title: Featured Work
   item_show: 6
 testimonial:
   enable: false
