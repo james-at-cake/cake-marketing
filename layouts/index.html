@@ -54,7 +54,7 @@
           <h2 class="text-dark">{{.content | markdownify}}</h2>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          <a href="{{ .URL | absURL }}" class="btn btn-primany">{{.label}}</a>
           {{ end }}
           {{ end }}
 
