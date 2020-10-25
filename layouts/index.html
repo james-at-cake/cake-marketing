@@ -52,10 +52,10 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with site.Data.homepage.about }}
           <h2 class="text-dark">{{.content | markdownify}}</h2>
-          <h3>If you would like to discuss a new project or you have revisions on an existing website. Contact us today at 1-877-667-6484 or hello@cakewalkdesign.com</h3>
+          <h5>If you would like to discuss a new project or you have revisions on an existing website. </br>Contact us today at 1-877-667-6484 or hello@cakewalkdesign.com</h5>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-primany">{{.label}}</a>
+          <a href="{{ .URL | absURL }}" class="btn btn-primary">{{.label}}</a>
           {{ end }}
           {{ end }}
 

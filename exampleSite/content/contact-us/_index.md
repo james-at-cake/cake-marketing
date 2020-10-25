@@ -1,5 +1,5 @@
 ---
 title: "Contact Us"
-description: "Contact Cakewalk Design with your project request"
+description: "Contact Cakewalk Design with your questions"
 draft: false
 ---
