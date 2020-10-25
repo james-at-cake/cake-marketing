@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
-
 <!-- CSS -->
 
 <link href="/plugins/wufoo/form.css" rel="stylesheet">
@@ -40,80 +38,143 @@
 
       <div class="col-6 offset-3 contact-form">
   
-<form
-  id="form2"
-  name="form2"
-  class="wufoo topLabel page"
-  accept-charset="UTF-8"
-  autocomplete="off"
-  enctype="multipart/form-data"
-  method="post"
-  novalidate
-      action="https://cakewalkdesign.wufoo.com/forms/mmtg55j1umkeoy/#public"
-  >
+<div id="header" class="info">
+<h2 class="">Cakewalk Project Quote Request</h2>
+<div class="">So you're thinking about starting a website project? Please send over a few details and we can get started on this together.</div>
+</div>
 
-<div id="email-header" class="info">
-<h2 class="section-title">Contact Us</h2>
-</div><ul>
-<li id="foli1" class="notranslate      ">
-<label class="desc" id="title1">
+<ul>
+<li id="foli26" class="notranslate      ">
+<label class="desc" id="title26">
 Name
-<span id="req_1" class="req">*</span>
+<span id="req_26" class="req">*</span>
 </label>
 <span>
-<input id="Field1" name="Field1" type="text" class="field text fn" value="" size="8" tabindex="0" placeholder=""       required />
-<label for="Field1">First</label>
+<input id="Field26" name="Field26" type="text" class="field text fn" value="" size="8" tabindex="0" placeholder=""       required />
+<label for="Field26">First</label>
 </span>
 <span>
-<input id="Field2" name="Field2" type="text" class="field text ln" value="" size="14" tabindex="0" placeholder="" required />
-<label for="Field2">Last</label>
+<input id="Field27" name="Field27" type="text" class="field text ln" value="" size="14" tabindex="0" placeholder="" required />
+<label for="Field27">Last</label>
 </span>
 </li>
-<li id="foli5" data-wufoo-field data-field-type="text" class="notranslate      ">
-<label class="desc" id="title5" for="Field5">
+<li id="foli7" data-wufoo-field data-field-type="text" class="notranslate      ">
+<label class="desc" id="title7" for="Field7">
 Company
+<span id="req_7" class="req">*</span>
 </label>
 <div>
-<input id="Field5" name="Field5" type="text" class="field text medium" value="" maxlength="255" tabindex="0" onkeyup=""       placeholder="" />
+<input id="Field7" name="Field7" type="text" class="field text medium" value="" maxlength="255" tabindex="0" onkeyup=""       required placeholder="" />
 </div>
 </li>
-<li id="foli4" class="phone notranslate      ">
-<label class="desc" id="title4">
+<li id="foli32" class="phone notranslate      ">
+<label class="desc" id="title32">
 Phone Number
+<span id="req_32" class="req">*</span>
 </label>
 <span>
-<input id="Field4" name="Field4"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="autotab(this, document.getElementById('Field4-1'), this); filterNonnumeric(this);"             onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder=""       />
-<label for="Field4">###</label>
+<input id="Field32" name="Field32"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="autotab(this, document.getElementById('Field32-1'), this); filterNonnumeric(this);"             onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder=""       required />
+<label for="Field32">###</label>
 </span>
 <span class="symbol">-</span>
 <span>
-<input id="Field4-1" name="Field4-1"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="autotab(this, document.getElementById('Field4-2'), document.getElementById('Field4')); filterNonnumeric(this);"       onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder="" />
-<label for="Field4-1">###</label>
+<input id="Field32-1" name="Field32-1"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="autotab(this, document.getElementById('Field32-2'), document.getElementById('Field32')); filterNonnumeric(this);"       onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder="" required />
+<label for="Field32-1">###</label>
 </span>
 <span class="symbol">-</span>
 <span>
- <input id="Field4-2" name="Field4-2"       type="tel" class="field text" value="" size="4" maxlength="4" tabindex="0"       onkeyup="autotab(this, this, document.getElementById('Field4-1')); filterNonnumeric(this);"             onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder="" />
-<label for="Field4-2">####</label>
+ <input id="Field32-2" name="Field32-2"       type="tel" class="field text" value="" size="4" maxlength="4" tabindex="0"       onkeyup="autotab(this, this, document.getElementById('Field32-1')); filterNonnumeric(this);"             onfocus="this.selectionStart = this.selectionEnd = this.value.length;" placeholder="" required />
+<label for="Field32-2">####</label>
 </span>
 </li>
-<li id="foli3" class="notranslate      ">
-<label class="desc" id="title3" for="Field3">
-Email
-<span id="req_3" class="req">*</span>
+<li id="foli24" class="notranslate      ">
+<label class="desc" id="title24" for="Field24">
+Email Address
+<span id="req_24" class="req">*</span>
 </label>
 <div>
-<input id="Field3" name="Field3" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="0"       placeholder="" required />
+<input id="Field24" name="Field24" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="0"       placeholder="" required />
 </div>
+</li><li id="foli5" class="     ">
+<fieldset>
+<![if !IE | (gte IE 8)]>
+<legend id="title5" class="desc notranslate">
+What kind of Project Work Do You Need Assistance with?
+</legend>
+<![endif]>
+<!--[if lt IE 8]>
+<label id="title5" class="desc">
+What kind of Project Work Do You Need Assistance with?
+</label>
+<![endif]-->
+<div>
+  <input id="radioDefault_5" name="Field5" type="hidden" value="" />
+    <span>
+  <input id="Field5_0"     name="Field5"     type="radio"     class="field radio"     value="Custom website design and development"     tabindex="0"         onchange="handleRadioOther(this.name, false);"             checked="checked"                     />
+  <label class="choice" for="Field5_0"     >
+    <span class="choice__text notranslate">Custom website design and development</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    </span>
+  <span>
+  <input id="Field5_1"     name="Field5"     type="radio"     class="field radio"     value="Winery website template modifications"     tabindex="0"         onchange="handleRadioOther(this.name, false);"                         />
+  <label class="choice" for="Field5_1"     >
+    <span class="choice__text notranslate">Winery website template modifications</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    </span>
+  <span>
+  <input id="Field5_2"     name="Field5"     type="radio"     class="field radio"     value="Store and ecommerce integration"     tabindex="0"         onchange="handleRadioOther(this.name, false);"                         />
+  <label class="choice" for="Field5_2"     >
+    <span class="choice__text notranslate">Store and ecommerce integration</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    </span>
+  <span>
+  <input id="Field5_3"     name="Field5"     type="radio"     class="field radio"     value="Design agency partnership request"     tabindex="0"         onchange="handleRadioOther(this.name, false);"                         />
+  <label class="choice" for="Field5_3"     >
+    <span class="choice__text notranslate">Design agency partnership request</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    </span>
+  <span>
+  <input id="Field5_4"     name="Field5"     type="radio"     class="field radio"     value="Website assistance and maintenance"     tabindex="0"         onchange="handleRadioOther(this.name, false);"                         />
+  <label class="choice" for="Field5_4"     >
+    <span class="choice__text notranslate">Website assistance and maintenance</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    </span>
+  <span>
+  <input id="Field5_5"     name="Field5"     type="radio"     class="field radio"     value="I need help with something not listed"     tabindex="0"         onchange="handleRadioOther(this.name, true);"                 onmouseup="document.getElementById('Field5_other').focus();"                     />
+  <label class="choice" for="Field5_5"          onmouseup="document.getElementById('Field5_other').focus();">
+    <span class="choice__text notranslate">I need help with something not listed</span>
+          <span class="choice__qty">
+              </span>
+  </label>
+    <input id="Field5_other"     name="Field5_other_I need help with something not listed"     type="text"     class="field text other"     value=""     maxlength="250"         onclick="document.getElementById('Field5_5').checked = 'checked';handleRadioOther('Field5', true);"         onkeyup="validateRange(5, 'character');"         tabindex="0"     />
+        <label id="Field5_otherlabel" class="other" for="Field5_other"       style="display:none;">
+      Maximum of <var id="rangeMaxMsg5">250</var> characters.&nbsp;&nbsp;&nbsp; <em class="currently">Currently Used: <var id="rangeUsedMsg5">0</var> characters.</em>
+    </label>
+        </span>
+</div>
+</fieldset>
+<p class="instruct" id="instruct5">
+<small>What can we help you with? Please select all choices that apply.</small>
+</p>
 </li>
-<li id="foli6"
-class="notranslate      "><label class="desc" id="title6" for="Field6">
-Comments
-<span id="req_6" class="req">*</span>
+<li id="foli14"
+class="notranslate      "><label class="desc" id="title14" for="Field14">
+Project Outline
 </label>
 
 <div>
-<textarea id="Field6"
-name="Field6"
+<textarea id="Field14"
+name="Field14"
 class="field textarea medium"
 spellcheck="true"
 rows="10" cols="50"
@@ -121,10 +182,35 @@ rows="10" cols="50"
 tabindex="0"
 onkeyup=""
 placeholder=""
-      required  ></textarea>
+       ></textarea>
 
 </div>
-</li> <li class="buttons ">
+
+<p class="instruct" id="instruct14">
+<small>Please provide a brief summary of the project request. It doesn't have to be anything formal, just give us a basic idea of where we can start!</small>
+</p></li>
+<li id="foli15"
+class="notranslate      "><label class="desc" id="title15" for="Field15">
+Additional Comments
+</label>
+
+<div>
+<textarea id="Field15"
+name="Field15"
+class="field textarea medium"
+spellcheck="true"
+rows="10" cols="50"
+
+tabindex="0"
+onkeyup=""
+placeholder=""
+       ></textarea>
+
+</div>
+
+<p class="instruct" id="instruct15">
+<small>Maybe you have some additional project details that you'd like to share?</small>
+</p></li> <li class="buttons ">
 <div>
     
                         <input id="saveForm" name="saveForm" class="btn btn-primary submit"
@@ -136,7 +222,7 @@ placeholder=""
 <li class="hide">
 <label for="comment">Do Not Fill This Out</label>
 <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-<input type="hidden" id="idstamp" name="idstamp" value="zQ/B1Lljj4rPDolaks6cdc98ZpoJywmGINONJlGqhXc=" />
+<input type="hidden" id="idstamp" name="idstamp" value="bOlIShkqQIoAAX177DGnvGTqjOh9pN2F/0reO2kRdSw=" />
 <input type="hidden" id="encryptedPassword" name="encryptedPassword" value="" />
 </li>
 </ul>
