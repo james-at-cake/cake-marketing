@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ partial "page-title.html" . }}
+
 <!-- CSS -->
 
 <link href="/plugins/wufoo/form.css" rel="stylesheet">
@@ -13,30 +15,11 @@
 <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-{{ if site.Params.map.enable }}
-<section class="section pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Find me on Google Map</h2>
-      </div>
-      <div class="col-12">
-        {{ with site.Params.map }}
-        {{"<!-- Google Map -->" | safeHTML}}
-        <div class="shadow" id="map" data-latitude="{{ .map_latitude }}" data-longitude="{{ .map_longitude }}"
-          data-marker="{{ .map_marker | absURL }}" data-marker-name="{{ site.Title }}" style="height: 400px;"></div>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-
 <section class="section">
   <div class="container">
     <div class="row">
 
-      <div class="col-6 offset-3 contact-form">
+      <div class="col-sm-12 col-md-6 offset-md-3 contact-form">
   
 <div id="header" class="info">
 <h2 class="">Cakewalk Project Quote Request</h2>
@@ -97,11 +80,11 @@ Email Address
 </div>
 </li><li id="foli5" class="     ">
 <fieldset>
-<![if !IE | (gte IE 8)]>
+<!-- <![if !IE | (gte IE 8)]> -->
 <legend id="title5" class="desc notranslate">
 What kind of Project Work Do You Need Assistance with?
 </legend>
-<![endif]>
+<!-- <![endif]> -->
 <!--[if lt IE 8]>
 <label id="title5" class="desc">
 What kind of Project Work Do You Need Assistance with?
