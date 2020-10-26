@@ -31,7 +31,7 @@
         </div>
        <div class="col-md-3">
         <label class="control-label" for="Last Name"></label>
-            <input id="contact-form-name" name="Last Name" type="text" placeholder="Last Name" class="form-control input-md" required="yesy" autocomplete="off">
+            <input id="contact-form-name" name="Last Name" type="text" placeholder="Last Name" class="form-control input-md" required="yes" autocomplete="off">
         </div>
     </div>
     <!-- Text input-->
@@ -42,9 +42,17 @@
         </div>
     </div>
 
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-6 control-label" for="Phone Number"></label>
+        <div class="col-md-6">
+            <input id="contact-form-phone" name="Phone Number" type="email" placeholder="Phone Number" class="form-control input-md" required="yes" autocomplete="off">
+        </div>
+    </div>
+
     <!-- Textarea -->
     <p>
-    <label>What Kind of Project wil we Be Working On? </br> <select name="role[]" multiple>
+    <label>What Kind of Project wil we Be Working On? </br> <select name="Project Type[]" multiple>
       <option value="custom">Custom website design and development</option>
       <option value="template">Winery website template and modifications</option>
       <option value="integration">Store and ecommerce integration</option>
