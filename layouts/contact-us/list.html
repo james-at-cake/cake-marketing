@@ -53,106 +53,38 @@ Or use the form below to get in touch.</h5>
 
       <div class="col-sm-12 col-md-8 col-lg-6 offset-md-2 offset-lg-3 contact-form">
   
-<form
-  id="form2"
-  name="form2"
-  class="wufoo topLabel page"
-  accept-charset="UTF-8"
-  autocomplete="off"
-  enctype="multipart/form-data"
-  method="post"
-  novalidate
-      action="https://cakewalkdesign.wufoo.com/forms/mmtg55j1umkeoy/#public"
-  >
-
-<div id="email-header" class="info">
-<h2 class="section-title">Contact Us</h2>
-</div><ul>
-<li id="foli1" class="notranslate      ">
-<label class="desc" id="title1">
-Name
-<span id="req_1" class="req">*</span>
-</label>
-<span>
-<input id="Field1" name="Field1" type="text" class="field text fn" value="" size="8" tabindex="0" placeholder=""       required />
-<label for="Field1">First</label>
-</span>
-<span>
-<input id="Field2" name="Field2" type="text" class="field text ln" value="" size="14" tabindex="0" placeholder="" required />
-<label for="Field2">Last</label>
-</span>
-</li>
-<li id="foli5" data-wufoo-field data-field-type="text" class="notranslate      ">
-<label class="desc" id="title5" for="Field5">
-Company
-</label>
-<div>
-<input id="Field5" name="Field5" type="text" class="field text medium" value="" maxlength="255" tabindex="0" onkeyup=""       placeholder="" />
-</div>
-</li>
-<li id="foli4" class="phone notranslate      ">
-<label class="desc" id="title4">
-Phone Number
-</label>
-<span>
-<input id="Field4" name="Field4"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="" placeholder=""       />
-<label for="Field4">###</label>
-</span>
-<span class="symbol">-</span>
-<span>
-<input id="Field4-1" name="Field4-1"       type="tel" class="field text" value="" size="3" maxlength="3" tabindex="0"       onkeyup="" placeholder="" />
-<label for="Field4-1">###</label>
-</span>
-<span class="symbol">-</span>
-<span>
- <input id="Field4-2" name="Field4-2"       type="tel" class="field text" value="" size="4" maxlength="4" tabindex="0"       onkeyup="" placeholder="" />
-<label for="Field4-2">####</label>
-</span>
-</li>
-<li id="foli3" class="notranslate      ">
-<label class="desc" id="title3" for="Field3">
-Email
-<span id="req_3" class="req">*</span>
-</label>
-<div>
-<input id="Field3" name="Field3" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="0"       placeholder="" required />
-</div>
-</li>
-<li id="foli6"
-class="notranslate      "><label class="desc" id="title6" for="Field6">
-Comments
-<span id="req_6" class="req">*</span>
-</label>
-
-<div>
-<textarea id="Field6"
-name="Field6"
-class="field textarea medium"
-spellcheck="true"
-rows="10" cols="50"
-
-tabindex="0"
-onkeyup=""
-placeholder=""
-      required  ></textarea>
-
-</div>
-</li> <li class="buttons ">
-<div>
-    
-                        <input id="saveForm" name="saveForm" class="btn btn-primary submit"
-    type="submit" value="Submit"
- />    
-</div>
-</li>
-
-<li class="hide">
-<label for="comment">Do Not Fill This Out</label>
-<textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-<input type="hidden" id="idstamp" name="idstamp" value="zQ/B1Lljj4rPDolaks6cdc98ZpoJywmGINONJlGqhXc=" />
-<input type="hidden" id="encryptedPassword" name="encryptedPassword" value="" />
-</li>
-</ul>
+<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact" />
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Name"></label>
+        <div class="col-md-4">
+            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Email"></label>
+        <div class="col-md-4">
+            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Subject"></label>
+        <div class="col-md-4">
+            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Textarea -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+    </div>
 </form>
 
 
