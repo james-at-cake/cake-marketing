@@ -38,18 +38,6 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">Follow us on Social</h2>
-      </div>
-      <div class="col-12">
-        <ul class="list-inline social-icons text-center">
-          {{ range site.Params.social }}
-          <li class="list-inline-item"><a href="{{.URL}}"><i class="{{.icon}}"></i></a></li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12 text-center">
         <h3>We’d love to hear from you!</h3>
         <h5>Call:&nbsp;<b>1-877-667-6484<br>
 </b>Email:&nbsp;<a href="mailto:hello@cakewalkdesign.com">hello@cakewalkdesign.com</a><br>
@@ -168,6 +156,23 @@ placeholder=""
 </form>
 
 
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Follow us on Social</h2>
+      </div>
+      <div class="col-12">
+        <ul class="list-inline social-icons text-center">
+          {{ range site.Params.social }}
+          <li class="list-inline-item"><a href="{{.URL}}"><i class="{{.icon}}"></i></a></li>
+          {{ end }}
+        </ul>
       </div>
     </div>
   </div>
