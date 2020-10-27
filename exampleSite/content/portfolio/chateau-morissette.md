@@ -1,7 +1,7 @@
 ---
 title: "Chateau Morrisette"
 date: 2018-06-12T12:14:34+06:00
-image: "images/portfolio/montinore-2.jpg"
+image: "images/portfolio/chateau-morissette.jpg"
 client: "Chateau Morrisette"
 project_url : "https://www.thedogs.com/"
 categories: ["template design"]

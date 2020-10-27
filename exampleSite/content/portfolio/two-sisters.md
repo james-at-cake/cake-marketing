@@ -1,7 +1,7 @@
 ---
 title: "Two Sisters Vineyards"
 date: 2018-04-12T12:14:34+06:00
-image: "images/portfolio/montinore-2.jpg"
+image: "images/portfolio/two-sisters.jpg"
 client: "Two Sisters Vineyards"
 project_url : "https://www.twosistersvineyards.com/"
 categories: ["template design"]
