@@ -4,7 +4,7 @@ date: 2018-01-12T12:14:34+06:00
 image: "images/portfolio/Septenary.jpg"
 client: "Septenary Winery"
 project_url : "https://www.septenarywinery.com"
-categories: ["custom design","development"]
+categories: ["template design"]
 description: "A development created for Seven Oaks Vineyards starting with a template."
 draft: false
 ---

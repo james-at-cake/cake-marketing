@@ -6,7 +6,7 @@ client: "Petrichor"
 project_url : "https://www.petrichorvineyards.com/"
 categories: ["template design"]
 description: "A website created for Petrichor starting with a template."
-draft: false
+draft: true
 ---
 
 #### Project Requirements
