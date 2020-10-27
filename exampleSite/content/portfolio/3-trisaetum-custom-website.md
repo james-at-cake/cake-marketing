@@ -5,7 +5,7 @@ image: "images/portfolio/trisaetum.jpg"
 client: "Trisaaetum Wine"
 project_url : "https://www.trisaetum.com/"
 categories: ["custom design","development"]
-description: "A custom design and development created for the Trisaetum."
+description: "A custom design and development created for Trisaetum."
 draft: false
 ---
 
