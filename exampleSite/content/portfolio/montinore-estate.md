@@ -6,7 +6,7 @@ client: "Montinore Estate"
 project_url : "https://www.montinore.com/"
 categories: ["template design"]
 description: "A website created for Montinore starting with a template."
-draft: false
+draft: true
 ---
 
 #### Project Details

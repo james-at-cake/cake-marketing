@@ -4,9 +4,9 @@ date: 2017-03-12T12:14:34+06:00
 image: "images/portfolio/corkguru.jpg"
 client: "Cork Guru"
 project_url : "http://www.corkguru.com/"
-categories: ["wordpress"]
+categories: ["template design"]
 description: "A Wordpress development created for Cork Guru."
-draft: true
+draft: false
 ---
 
 #### Project Requirements
