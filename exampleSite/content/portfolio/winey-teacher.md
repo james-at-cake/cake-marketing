@@ -11,4 +11,4 @@ draft: false
 
 #### Project Details
 
-We created a design & development for Winey Teacher using a WineDirect template as a base so they could get a store up and running. Teachers are a hard-working bunch and they're definately under-appreciated. Show your teachers some love by sending some wine thier way.
+We created a design & development for Winey Teacher using a WineDirect template as a base so they could get a store up and running. Teachers are a hard-working bunch and they're definately under-appreciated. Show your teachers some love by sending some wine their way.
