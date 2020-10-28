@@ -76,7 +76,7 @@ service:
   title: ''
 portfolio:
   enable: true
-  title: Our Latest Work
+  title: Our Featured Work
   item_show: 3
 testimonial:
   enable: false
