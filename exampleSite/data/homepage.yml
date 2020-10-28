@@ -70,11 +70,13 @@ service:
     highlighted: true
   - title: Our Services
     icon: ti-vector
-    content: Cakewalk offers a full range of design and development services for wineries. Template modifications, ecommerce integrations, and custom design and development.
+    content: Cakewalk offers a full range of design and development services for wineries.
+      Template modifications, ecommerce integrations, and custom design and development.
     highlighted: ''
+  title: ''
 portfolio:
   enable: true
-  title: Our Featured Work
+  title: Our Latest Work
   item_show: 6
 testimonial:
   enable: false
