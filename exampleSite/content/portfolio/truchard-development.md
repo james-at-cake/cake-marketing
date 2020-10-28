@@ -6,7 +6,7 @@ client: "Truchard Vineyards"
 project_url : "https://truchardvineyards.com/"
 categories: ["development"]
 description: "A development created for Truchard Vineyards."
-draft: false
+draft: true
 ---
 
 #### Project Requirements
