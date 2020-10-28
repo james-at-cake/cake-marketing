@@ -8,6 +8,8 @@
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
+
+
   <style>
     :root{
       --primary-color:{{ site.Params.theme_color }};
@@ -18,6 +20,8 @@
   {{ range site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }} ">
   {{ end }}
+
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ae73e806-3c04-450e-8597-eb1007a4c9a9.css"/>
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "css/style.css" | minify }}
