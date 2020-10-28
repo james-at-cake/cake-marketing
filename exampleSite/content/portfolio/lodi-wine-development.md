@@ -1,6 +1,6 @@
 ---
 title: "Lodi Wine Development"
-date: 2020-01-12T12:14:34+06:00
+date: 2020-07-12T12:14:34+06:00
 image: "images/portfolio/lodi.jpg"
 client: "Lodi Wine"
 project_url : "https://www.lodiwine.com/"
