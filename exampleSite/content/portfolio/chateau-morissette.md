@@ -1,6 +1,6 @@
 ---
 title: "Chateau Morrisette"
-date: 2018-06-12T12:14:34+06:00
+date: 2020-06-12T12:14:34+06:00
 image: "images/portfolio/chateau-morisette.jpg"
 client: "Chateau Morrisette"
 project_url : "https://www.thedogs.com/"
