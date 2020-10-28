@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "Cakewalk Design Studio - Winery Website Design and Development"
-author_image : "/images/james.jpg"
+author_image : "/images/james-davenport.jpg"
 draft: false
 ---
 Cakewalk Design is a niche design and development studio that is hyper-focussed on crafting winery websites. My name is James Davenport and I live in Abbotsford, BC, which is located an hour west of Vancouver. This small agricultural community is the birthplace to some of the best wine tech in the world and has a growing agtech community.
