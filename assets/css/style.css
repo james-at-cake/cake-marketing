@@ -88,13 +88,21 @@ h2,
 
   h2,
   .h2 {
-    font-size: 40px
+    font-size: 36px
   }
 }
 
 h3,
 .h3 {
   font-size: 32px
+}
+
+@media(max-width:991px) {
+
+  h3,
+  .h3 {
+    font-size: 28px
+  }
 }
 
 h4,
