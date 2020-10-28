@@ -4,7 +4,7 @@ date: 2018-03-12T12:14:34+06:00
 image: "images/portfolio/trisaetum.jpg"
 client: "Trisaaetum Wine"
 project_url : "https://www.trisaetum.com/"
-categories: ["custom design","development"]
+categories: ["custom design"]
 description: "A custom design and development created for Trisaetum."
 draft: false
 ---

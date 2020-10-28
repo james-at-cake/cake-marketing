@@ -3,7 +3,7 @@ title: "Limerick Lane Custom Website"
 date: 2016-07-12T12:14:34+06:00
 image: "images/portfolio/limerick.jpg"
 client: "Limerick Lane Wines"
-categories: ["custom design","development"]
+categories: ["custom design"]
 description: "A custom design and development created for Limerick Lanes."
 draft: false
 ---

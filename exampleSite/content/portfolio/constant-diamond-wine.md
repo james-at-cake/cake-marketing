@@ -4,7 +4,7 @@ date: 2017-07-12T12:14:34+06:00
 image: "images/portfolio/constant.jpg"
 client: "Constant Diamond Wine"
 project_url : "https://www.constantwine.com/"
-categories: ["custom design","development"]
+categories: ["custom design"]
 description: "A custom design and development created for Constant Diamond Wine."
 draft: false
 ---

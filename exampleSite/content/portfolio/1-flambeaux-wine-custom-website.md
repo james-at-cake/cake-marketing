@@ -4,7 +4,7 @@ date: 2016-09-12T12:14:34+06:00
 image: "images/portfolio/Flambeaux.jpg"
 client: "Flambeaux Wine"
 project_url : "https://www.flambeauxwine.com/"
-categories: ["custom design","development"]
+categories: ["custom design"]
 description: "A custom design and development created for Flambeaux."
 draft: false
 ---
