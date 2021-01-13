@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = "#300-34334 Forrest Terrace  |  Abbotsford, B.C., Canada  |  V2S 1G7"
 author = "James Davenport"
-copyright = "Copyright &copy; 2020 Cakewalk Design"
+copyright = "Copyright &copy; 2021 Cakewalk Design"
 description = "Cakewalk Design, Custom Websites for Wineries"
 email = "hello@cakewalkdesign.com"
 google_analytics_id = "UA-46077672-2"
