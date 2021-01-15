@@ -67,8 +67,3 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "https://twitter.com/cakewalkdesign"
 icon = "ti-twitter-alt"
-sitemap =
-  changefreq= "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
