@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Cakewalk Design"
 [[menu.main]]
-URL = "/blog"
-name = "Blog"
-weight = ""
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
@@ -19,6 +15,10 @@ weight = 2
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = ""
 [[menu.main]]
 URL = "contact-us"
 name = "Contact Us"
