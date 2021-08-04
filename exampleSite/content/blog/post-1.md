@@ -1,46 +1,49 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: "This is meta description."
+title: "6 Steps for Bringing your Winery Experience Online - Where do I Start?"
+date: 2021-08-03T15:14:34+06:00
+image: "/images/icons/dev-icon-3.jpg"
+description: "Starting out with building a winery website? Cakewalk Design offers tips on getting started with an ecommerce winery website."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+# 6 Steps for Bringing your Winery Experience Online - Where do I Start?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+After a year where transitioning online has become a sudden necessity, many businesses have discovered how crucial it is to have a great web experience, and wineries are no excuse. While places like Niagara and the Okanagan may be considered wine country regions, with a properly created website, anyone can enjoy a visit to wine country from the comfort of their own home! Here are 5 items to consider to start the process of bringing your winery experience online.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+1. **What are the Business Needs or Objectives?**
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+To begin design and development for a unique winery website, it is important that you determine where you are as a business and how a website will support the marketing goals. Take time with your team to establish what exactly you would like to accomplish by generating an online presence (ie. selling products online, kickstarting a wine club, crafting a mailing list, or sharing company updates). This is an essential first step so that your designer can determine which approach is right for your marketing objectives.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+1. **What is the Marketing Strategy?**
+
+We need to know how you plan to use the website. Your website should be another tool in your kit that is part of an overall plan to help you achieve your mission and stick to your goals. As marketing moves more and more into the digital world, your website will become one of your best assets. If you do not have a concrete vision in place, you certainly will want to make that a priority! Ask, “What makes my winery different from all of the rest?” and “In 10 years what would ultimate success look like for our business?” “What differentiates our wine and winery experience?”
+
+1. **What does the Customer Want?**
+
+You’ll want to create the best user experience on your website design and development. Creating a great experience is a must-have consideration that can be an informal discussion or a deeper dive into a more formal exercise by creating personas and user journeys. The goal is to focus on what your customers are wanting. What is your website data saying about visitors? What are your wine club members telling you? What is the feedback from the tasting room?
+
+The at-home experience of your customer needs to be considered too. Many wineries build websites as part of the funnel to draw visitors out to their properties or tasting rooms for experiences and events at the winery but the journey can go both ways. You also have to consider your wine as a complement to your user’s own story. Ask yourself, What celebrations, milestones, stories, dinners, and gatherings can your wine be brought into?
+
+User and customer experience touch more territory than creating a website, but these are the strategic questions to consider before even starting out on a project. The basics here are that you’re talking with and listening to your customers and what they need.
+
+1. **Establish your Site Map**
+
+It is key that your most important information is easily accessible on your website. Don’t make users dig too much to find what they’re looking for. In the same way, it is equally important that your customers feel they can navigate your site with confidence. This can be a quick exercise so we know where to start and it will be used as a foundation for a content plan.
+
+Start to collect all the different information that will live on your website and dream up some ways that it might be best organized. A website should be laid out in a way that is intuitive to browse, and is visually appealing!
+
+1. **Take an Inventory of the Brand Assets and Content**
+
+You have high standards for every bottle of wine that passes through your doors. Why should your standards for the digital content that represents your brand be any lower? Having high-quality photos and writing will do everything to elevate your digital presence. It is important to start creating content to represent your winery that you would be proud to display on your website.
+
+Creating content doesn’t mean everything has to be ready on day one, but it does mean you devise a plan so we understand what’s needed to complete the work, and what can be released in the future. Do you have a brand guideline to work from? What photography, imagery, content, etc do we have to work with? What photography, imagery, content needs to be created?
+
+1. **What Platform is Best Suited for your Winery?**
+
+Now that we’ve done some work together on the marketing and strategy, this is the best time to evaluate the technology and platforms that will work best for the business as well as meeting user expectations. The process of selecting a website and eCommerce platform will be easier because we’ve put in some work and the approach has been thought out.
+
+Your website should work perfectly for the needs and goals of your winery, but it should also work perfectly for your customers. Speak with a [Winery Web Designer](https://cakewalkdesign.com/) to determine what platform will best serve your business. You may hear names such as Commerce 7, WineDirect, Shopify, and more. Programs like these need to be evaluated to understand what is the best fit.
+
+While creating a website for your winery may feel like a big step, the rewards it can bring are undeniably worth it. From providing a place for your customers to visit your winery from wherever they are, to being another tool helping you work towards your overall goals, an online presence will be nothing but positive for your winery!
+
+Consider connecting with Cakewalk Design to bring your winery website dreams to life. We have vast experience setting up websites for all sorts of wineries and can't wait to work together with you! Visit our website at [https://cakewalkdesign.com](https://cakewalkdesign.com "https://cakewalkdesign.com") or send us an email at [hello@cakewalkdesign.com](mailto:hello@cakewalkdesign.com) to get started.
