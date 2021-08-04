@@ -1,8 +1,8 @@
 ---
-title: "6 Steps for Bringing your Winery Experience Online - Where do I Start?"
+title: "Get Started with Building Your Winery Website"
 date: 2021-08-03T15:14:34+06:00
 image: "/images/icons/dev-icon-3.jpg"
-description: "Starting out with building a winery website? Cakewalk Design offers tips on getting started with an ecommerce winery website."
+description: "Starting out with building a winery website? Cakewalk Design offers tips on getting started with creating an ecommerce winery website."
 draft: false
 ---
 
